@@ -1,0 +1,27 @@
+<inventory >
+
+    <product >
+        <name>Smartphone</name>
+        <category>Electronics</category>
+        <price>500</price>
+        <quantity>25</quantity>
+    </product>
+    <product >
+        <name>Washing Machine</name>
+        <category>Home Appliances</category>
+        <price>300</price>
+        <quantity>10</quantity>
+    </product>
+    <product >
+        <name>Chocolate Bar</name>
+        <category>Groceries</category>
+        <price>2</price>
+        <quantity>200</quantity>
+    </product>
+     <product >
+        <name>Cake Bar</name>
+        <category>Groceries</category>
+        <price>12</price>
+        <quantity>100</quantity>
+    </product>
+</inventory>

@@ -1,0 +1,29 @@
+<inventory 
+xmlns:E="http://www.E.com"
+xmlns:St="http://www.St.com">
+
+    <product >
+        <E:name>Smartphone</E:name>
+        <E:category>Electronics</E:category>
+        <E:price>500</E:price>
+        <E:quantity>25</E:quantity>
+    </product>
+    <product >
+        <E:name>Washing Machine</E:name>
+        <E:category>Home Appliances</E:category>
+        <E:price>300</E:price>
+        <E:quantity>10</E:quantity>
+    </product>
+    <product >
+        <St:name>Chocolate Bar</St:name>
+        <St:category>Groceries</St:category>
+        <St:price>2</St:price>
+        <St:quantity>200</St:quantity>
+    </product>
+     <product >
+        <St:name>Cake Bar</St:name>
+        <St:category>Groceries</St:category>
+        <St:price>12</St:price>
+        <St:quantity>100</St:quantity>
+    </product>
+</inventory>

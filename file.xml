@@ -1,0 +1,20 @@
+<Student>
+ <book>
+        <title>Learning XML</title>
+        <author>Ammar khan</author>
+        <price>15.99</price>
+        <publicationYear>2020</publicationYear>
+    </book>
+    <book>
+        <title>Python</title>
+        <author>Danish</author>
+        <price>25.50</price>
+        <publicationYear>2018</publicationYear>
+    </book>
+    <book>
+        <title>Introduction to AI</title>
+        <author>Raqeeb</author>
+        <price>30.00</price>
+        <publicationYear>2022</publicationYear>
+    </book>
+</Student>

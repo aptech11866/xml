@@ -1,0 +1,24 @@
+<employeeDirectory
+xmlns:Faculty="http://www.Faculty.com"
+xmlns:DATABASE="http://www.DATABASE.com">
+    <employee >
+        <Faculty:name>Ammar Khan</Faculty:name>
+        <Faculty:department>Finance</Faculty:department>
+        <Faculty:role>Accountant</Faculty:role>
+    </employee>
+    <employee >
+        <Faculty:name> Ahmed</Faculty:name>
+        <Faculty:department>Human Resources</Faculty:department>
+        <Faculty:role>HR Manager</Faculty:role>
+    </employee>
+    <employee >
+        <DATABASE:name>Sir Asif Ahmed Khan</DATABASE:name>
+        <DATABASE:department>IT</DATABASE:department>
+        <DATABASE:role>Software Engineer</DATABASE:role>
+    </employee>
+    <employee >
+        <DATABASE:name>Maryam Fatima</DATABASE:name>
+        <DATABASE:department>Marketing</DATABASE:department>
+        <DATABASE:role>Brand Strategist</DATABASE:role>
+    </employee>
+</employeeDirectory>
